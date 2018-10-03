@@ -26,6 +26,8 @@ nav {
 Welcome to an overview of the documentation provided by the Rust project.
 All of these projects are managed by the Docs Team; there are other
 unofficial documentation resources as well!
+If you already have installed rust you can look at an offline version of the 
+rust documentation by typing “rustup doc” into the console.
 
 Many of these resources take the form of "books"; we collectively call these
 "The Rust Bookshelf." Some are large, some are small.
